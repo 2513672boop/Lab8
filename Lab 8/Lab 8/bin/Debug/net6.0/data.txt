@@ -1,0 +1,10 @@
+Car,Vinfast,120,5
+Motorcycle,Honda,80
+Car,Toyota,100,7
+Motorcycle,Yamaha,110
+Car,Ford,150,4
+Motorcycle,Suzuki,60
+Car,Kia,90,9
+Motorcycle,Ducati,200
+Car,Hyundai,110,7
+Motorcycle,Kawasaki,180
