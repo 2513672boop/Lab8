@@ -63,17 +63,18 @@ internal class Program
                         Console.WriteLine("Lua chon khong hop le.");
                         break;
                     }
+                    if (chon != 1 && chon != 2)
+                    {
+                        Console.WriteLine("Lua chon khong hop le.");
+                        break;
+                    }
                     if (chon == 1)
                     {
                         Console.WriteLine($"Car: {ds.DemSoluongCar()}");
                     }
-                    else if (chon == 2)
-                    {
-                        Console.WriteLine($"Motorcycle: {ds.DemSoLuongMotorcycle()}");
-                    }
                     else
                     {
-                        Console.WriteLine("Lua chon khong hop le.");
+                        Console.WriteLine($"Motorcycle: {ds.DemSoLuongMotorcycle()}");
                     }
                     break;
                 case Menu.TimPhuongTienTheoLoai:
