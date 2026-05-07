@@ -53,7 +53,7 @@ internal class Program
                 case Menu.ThemPhuongTien:
                     break;
                 case Menu.HienThiDanhSach:
-                    Console.WriteLine(ds);
+                    Console.WriteLine(ds.ToString());
                     break;
                 case Menu.DemSoLuong:
                     Console.WriteLine($"Chon: Car(1)|Motorcycle(2)");
