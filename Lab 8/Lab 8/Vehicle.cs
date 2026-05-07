@@ -9,7 +9,7 @@ namespace Lab_8
 {
     internal class Vehicle : IVehicle
     {
-        public string Ten { get; set; }
+        public string Ten { get; set; } = string.Empty;
         public int TocDo { get; set; }
         public virtual void Chay()
         {

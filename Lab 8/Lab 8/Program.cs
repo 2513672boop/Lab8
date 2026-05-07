@@ -35,7 +35,15 @@ internal class Program
             Console.WriteLine($"{(int)Menu.Thoat}/ Thoat");
 
             Console.Write("\nChon chuc nang:");
-            Menu LuaChon = ((Menu)Enum.Parse(typeof(Menu), Console.ReadLine()));
+            string? luaChonInput = Console.ReadLine();
+            if (!int.TryParse(luaChonInput, out int luaChonValue) || !Enum.IsDefined(typeof(Menu), luaChonValue))
+            {
+                Console.Write("Khong co lua chon nay");
+                Console.ReadKey();
+                continue;
+            }
+
+            Menu LuaChon = (Menu)luaChonValue;
             switch (LuaChon)
             {
                 case Menu.NhapTuFile:
@@ -45,18 +53,27 @@ internal class Program
                 case Menu.ThemPhuongTien:
                     break;
                 case Menu.HienThiDanhSach:
-                    Console.WriteLine(ds.ToString);
+                    Console.WriteLine(ds);
                     break;
                 case Menu.DemSoLuong:
                     Console.WriteLine($"Chon: Car(1)|Motorcycle(2)");
-                    int chon = int.Parse(Console.ReadLine());
+                    string? chonInput = Console.ReadLine();
+                    if (!int.TryParse(chonInput, out int chon))
+                    {
+                        Console.WriteLine("Lua chon khong hop le.");
+                        break;
+                    }
                     if (chon == 1)
                     {
-                        Console.WriteLine($"Car{ds.DemSoluongCar}");
+                        Console.WriteLine($"Car: {ds.DemSoluongCar()}");
                     }
                     else if (chon == 2)
                     {
-                        Console.WriteLine($"Motorcycle{ds.DemSoLuongMotorcycle}");
+                        Console.WriteLine($"Motorcycle: {ds.DemSoLuongMotorcycle()}");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Lua chon khong hop le.");
                     }
                     break;
                 case Menu.TimPhuongTienTheoLoai:
