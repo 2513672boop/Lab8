@@ -1,29 +1,44 @@
-C:\Users\CICT\source\repos\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.exe
-C:\Users\CICT\source\repos\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.deps.json
-C:\Users\CICT\source\repos\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.runtimeconfig.json
-C:\Users\CICT\source\repos\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.dll
-C:\Users\CICT\source\repos\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.pdb
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.csproj.AssemblyReference.cache
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.AssemblyInfoInputs.cache
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.AssemblyInfo.cs
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.csproj.CoreCompileInputs.cache
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.dll
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\refint\Lab 8.dll
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.pdb
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.genruntimeconfig.cache
-C:\Users\CICT\source\repos\Lab 8\Lab 8\obj\Debug\net6.0\ref\Lab 8.dll
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.exe
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.deps.json
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.runtimeconfig.json
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.dll
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\bin\Debug\net6.0\Lab 8.pdb
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.AssemblyInfoInputs.cache
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.AssemblyInfo.cs
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.csproj.CoreCompileInputs.cache
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.dll
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\refint\Lab 8.dll
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.pdb
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\Lab 8.genruntimeconfig.cache
-C:\Users\PC602\Downloads\Lab 8\Lab 8\Lab 8\obj\Debug\net6.0\ref\Lab 8.dll
+C:/Users/CICT/source/repos/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.exe
+C:/Users/CICT/source/repos/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.deps.json
+C:/Users/CICT/source/repos/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.runtimeconfig.json
+C:/Users/CICT/source/repos/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.dll
+C:/Users/CICT/source/repos/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.pdb
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.csproj.AssemblyReference.cache
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.AssemblyInfoInputs.cache
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.AssemblyInfo.cs
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.csproj.CoreCompileInputs.cache
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.dll
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/refint/Lab 8.dll
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.pdb
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.genruntimeconfig.cache
+C:/Users/CICT/source/repos/Lab 8/Lab 8/obj/Debug/net6.0/ref/Lab 8.dll
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.exe
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.deps.json
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.runtimeconfig.json
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.dll
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.pdb
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.AssemblyInfoInputs.cache
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.AssemblyInfo.cs
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.csproj.CoreCompileInputs.cache
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.dll
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/refint/Lab 8.dll
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.pdb
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.genruntimeconfig.cache
+C:/Users/PC602/Downloads/Lab 8/Lab 8/Lab 8/obj/Debug/net6.0/ref/Lab 8.dll
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.deps.json
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.runtimeconfig.json
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.dll
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/bin/Debug/net6.0/Lab 8.pdb
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.AssemblyInfoInputs.cache
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.AssemblyInfo.cs
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.csproj.CoreCompileInputs.cache
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.sourcelink.json
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.dll
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/refint/Lab 8.dll
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.pdb
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/Lab 8.genruntimeconfig.cache
+/home/runner/work/Lab8/Lab8/Lab 8/Lab 8/obj/Debug/net6.0/ref/Lab 8.dll
