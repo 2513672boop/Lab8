@@ -9,11 +9,11 @@ namespace Lab_8
     internal class Car : Vehicle, ICar
     {
         public int SoChoNgoi { get; set; }
-        public Car(string Ten,int TocDo,int SoChoNgoi)
+        public Car(string ten, int tocDo, int soChoNgoi)
         {
-            Ten = Ten;
-            TocDo = TocDo;
-            SoChoNgoi = SoChoNgoi;
+            Ten = ten;
+            TocDo = tocDo;
+            SoChoNgoi = soChoNgoi;
         }
         public void DongCua()
         {

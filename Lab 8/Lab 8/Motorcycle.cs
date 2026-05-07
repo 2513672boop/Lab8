@@ -18,10 +18,10 @@ namespace Lab_8
             Console.WriteLine("Speeding up");
             TocDo += 5;
         }
-        public Motorcycle(string Ten,int TocDo)
+        public Motorcycle(string ten, int tocDo)
         {
-            Ten = Ten;
-            TocDo = TocDo;
+            Ten = ten;
+            TocDo = tocDo;
         }
         public override string ToString()
         {
