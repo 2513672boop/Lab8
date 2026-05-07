@@ -38,7 +38,7 @@ internal class Program
             string? luaChonInput = Console.ReadLine();
             if (!int.TryParse(luaChonInput, out int luaChonValue) || !Enum.IsDefined(typeof(Menu), luaChonValue))
             {
-                Console.Write("Khong co lua chon nay");
+                Console.WriteLine("Khong co lua chon nay");
                 Console.ReadKey();
                 continue;
             }
