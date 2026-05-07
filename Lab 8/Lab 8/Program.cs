@@ -58,12 +58,7 @@ internal class Program
                 case Menu.DemSoLuong:
                     Console.WriteLine($"Chon: Car(1)|Motorcycle(2)");
                     string? chonInput = Console.ReadLine();
-                    if (!int.TryParse(chonInput, out int chon))
-                    {
-                        Console.WriteLine("Lua chon khong hop le.");
-                        break;
-                    }
-                    if (chon != 1 && chon != 2)
+                    if (!int.TryParse(chonInput, out int chon) || chon < 1 || chon > 2)
                     {
                         Console.WriteLine("Lua chon khong hop le.");
                         break;
